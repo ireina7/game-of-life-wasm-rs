@@ -1,0 +1,1 @@
+/Users/comcx/Workspace/Repo/game-of-life-wasm-rs/target/wasm32-unknown-unknown/release/wasm_game_of_life.wasm: /Users/comcx/Workspace/Repo/game-of-life-wasm-rs/src/lib.rs /Users/comcx/Workspace/Repo/game-of-life-wasm-rs/src/utils.rs build.rs
